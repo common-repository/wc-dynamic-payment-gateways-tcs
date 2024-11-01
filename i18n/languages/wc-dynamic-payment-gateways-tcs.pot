@@ -1,0 +1,100 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Dynamic Payment Gateways TCS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-14 21:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: wc-dynamic-payment-gateways-tcs"
+
+#: src/Settings.php:106
+msgid "All Countries"
+msgstr ""
+
+#: src/Settings.php:82
+msgid "Country is"
+msgstr ""
+
+#: src/Settings.php:83
+msgid "Country is NOT"
+msgstr ""
+
+#: src/Settings.php:17
+msgid "Dynamic Payment Gateways"
+msgstr ""
+
+#. Name of the plugin
+msgid "Dynamic Payment Gateways for WooCommerce"
+msgstr ""
+
+#: src/Settings.php:68
+msgid "Enable"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://tailcode.studio/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wc-dynamic-payment-gateways-tcs"
+msgstr ""
+
+#: src/Settings.php:76
+msgid "Show when"
+msgstr ""
+
+#. Author of the plugin
+msgid "Tailcode Studio"
+msgstr ""
+
+#: src/Activation.php:17
+msgid ""
+"To use this plugin, you need to have WooCommerce installed and activated on "
+"your website. Please install and activate WooCommerce, then try again."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WC Dynamic Payment Gateways allows you to easily restrict payment options "
+"for your customers based on their billing country."
+msgstr ""
+
+#: wc-dynamic-payment-gateways-tcs.php:23
+msgid "We couldn't find <pre>autoload.php</pre> file."
+msgstr ""
+
+#: wc-dynamic-payment-gateways-tcs.php:25
+msgid ""
+"We're sorry, but it looks like the Composer autoloader is missing. This is "
+"required to run the plugin properly. Please check that you've installed "
+"Composer and that the autoloader is included in your project, then try again."
+msgstr ""
+
+#: src/Settings.php:40
+msgid ""
+"We're sorry, but it looks like you haven't enabled any payment methods on "
+"your website. To enable payment methods, please go to WooCommerce -> "
+"Settings -> Payments and activate one or more methods. Once you've done that,"
+" come back to this page and configure Dynamic Payment Gateways."
+msgstr ""
+
+#: src/Plugin.php:35
+msgid ""
+"We're sorry, but the `__clone` method is not supported by this class. "
+"Duplicating this object is not allowed."
+msgstr ""
+
+#: src/Plugin.php:43
+msgid ""
+"We're sorry, but the `__wakeup` method is not supported by this class. "
+"Unserializing this object is not allowed."
+msgstr ""
